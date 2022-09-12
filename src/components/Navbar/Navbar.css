@@ -1,0 +1,10 @@
+.main-div-Navbar{
+  
+  border-bottom-left-radius: 25px;
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 80%;
+}

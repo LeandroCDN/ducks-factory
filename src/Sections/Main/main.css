@@ -1,0 +1,10 @@
+.div-Main{
+  background-color:rgb(25 25 28);
+  height: 70%;
+  width: 50%;
+}
+
+h1{
+  position: absolute;
+  top:0px;
+}
